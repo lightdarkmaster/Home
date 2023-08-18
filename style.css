@@ -46,12 +46,11 @@ html {
     justify-content: center;
 }
 
-.paragraph {
-    position: absolute;
-    top: 10%;
-    margin: auto;
-    text-align: center;
-    justify-content: center;
+.navbar-brand img {
+    position: relative;
+    left: 10%;
+    width: 40%;
+    height: 20%;
 }
 
 .typing-animation {
